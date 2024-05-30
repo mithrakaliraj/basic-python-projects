@@ -17,5 +17,5 @@ Here are the projects included in this repository:
 5. **[Temperature Converter](https://github.com/mithrakaliraj/basic-python-projects/blob/main/TemperatureConverter.py)**: A program that allows users to convert temperatures between Fahrenheit and Celsius.
 6. **[ATM Simulator](https://github.com/mithrakaliraj/basic-python-projects/blob/main/ATM%20stimulator.py)**: A program that simulates ATM functionalities such as checking balance, depositing money, and withdrawing money.
 7. **[To-Do List Manager](https://github.com/mithrakaliraj/basic-python-projects/blob/main/todolist.py)**: A program that allows users to create and manage a to-do list.
-8. **[Random Password Generator]()**: A program that generates a random password of a user-defined length.
+8. **[Random Password Generator](https://github.com/mithrakaliraj/basic-python-projects/blob/main/randompasswordgenerator.py)**: A program that generates a random password of a user-defined length.
 Thank you for visiting my repository! I hope you find these projects helpful and educational.
