@@ -15,7 +15,7 @@ Welcome to my collection of simple Python projects! This repository showcases va
 
 Here are the projects included in this repository:
 
-1. **[Tic Tac Toe Game](./tic_tac_toe_game/README.md)**: A classic game where two players take turns to place their markers (X or O) on a 3x3 grid.
+1. **[Tic Tac Toe Game]()**: A classic game where two players take turns to place their markers (X or O) on a 3x3 grid.
 2. **[Rock, Paper, Scissors](./rock_paper_scissors/README.md)**: A simple implementation of the popular hand game.
 3. **[Currency Converter](./currency_converter/README.md)**: Converts amounts between different currencies using predefined exchange rates.
 4. **[Calculator](./calculator/README.md)**: Performs basic arithmetic operations like addition, subtraction, multiplication, and division.
