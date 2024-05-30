@@ -18,7 +18,7 @@ Here are the projects included in this repository:
 1. **[Tic Tac Toe Game]()**: A classic game where two players take turns to place their markers (X or O) on a 3x3 grid.
 2. **[Rock, Paper, Scissors](./rock_paper_scissors/README.md)**: A simple implementation of the popular hand game.
 3. **[Currency Converter](./currency_converter/README.md)**: Converts amounts between different currencies using predefined exchange rates.
-4. **[Calculator](./calculator/README.md)**: Performs basic arithmetic operations like addition, subtraction, multiplication, and division.
+4. **[Calculator](https://github.com/mithrakaliraj/basic-python-projects/blob/main/calculator.py)**: Performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 5. **[Personal Portfolio Website](./personal_portfolio/README.md)**: A simple portfolio website to showcase skills and projects.
 
 Each project has its own directory and README file for detailed instructions and explanations.
